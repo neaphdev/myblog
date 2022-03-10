@@ -14,3 +14,8 @@ table{
     padding-bottom: 2rem;
     /*    text-align: justify;*/
 }
+.footermain{
+    margin-top: 1rem;
+    padding-top: 1rem;
+    font-style: italic;
+}
