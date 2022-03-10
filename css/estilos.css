@@ -7,3 +7,10 @@ body{
 table{
     border: 2px;
 }
+.container{
+    border-radius: 1px;
+    border: 4px solid navy;
+    margin: auto;
+    padding-bottom: 2rem;
+    /*    text-align: justify;*/
+}

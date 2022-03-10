@@ -1,0 +1,29 @@
+commit 91c99eecc0d2eeb07b4dad683ca6014de02e1db1
+Author: apfata <apfata.developer@gmail.com>
+Date:   Sun Mar 6 23:54:00 2022 -0500
+
+    no considerado historia 2
+
+commit a110020a49995ad296b82b1cffaaf5dbc3a961e3
+Author: apfata <apfata.developer@gmail.com>
+Date:   Sun Mar 6 23:44:21 2022 -0500
+
+    historia actualizada
+
+commit 266c982be470a5ced78e933efbcffa4790125152
+Author: apfata <apfata.developer@gmail.com>
+Date:   Sun Mar 6 23:43:48 2022 -0500
+
+    cambios que se quiere ver
+
+commit a945b0587b55870f4dc0f6860f5b61ad398664b5
+Author: apfata <apfata.developer@gmail.com>
+Date:   Sun Mar 6 23:28:21 2022 -0500
+
+    arranco proyecto real html y css
+
+commit bc9387da18dd9fd7ce3c070ac4068217b1f688de
+Author: apfata <apfata.developer@gmail.com>
+Date:   Sun Mar 6 23:05:22 2022 -0500
+
+    commit 1
