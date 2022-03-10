@@ -14,8 +14,15 @@ table{
     padding-bottom: 2rem;
     /*    text-align: justify;*/
 }
+
 .footermain{
     margin-top: 1rem;
     padding-top: 1rem;
     font-style: italic;
+}
+
+#cabecera{
+    background-color: blueviolet;
+    color: white;    
+    font-family: sans-serif;
 }
