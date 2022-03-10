@@ -14,3 +14,8 @@ table{
     padding-bottom: 2rem;
     /*    text-align: justify;*/
 }
+#cabecera{
+    background-color: blueviolet;
+    color: white;    
+    font-family: sans-serif;
+}
