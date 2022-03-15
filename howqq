@@ -1,0 +1,110 @@
+[33mcommit c1f44c431665d9c22275aba79da0804b075ef141[m[33m ([m[1;36mHEAD -> [m[1;32mcabecera[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: b667786 6d2b537
+Author: apfata <apfata.developer@gmail.com>
+Date:   Thu Mar 10 21:55:13 2022 -0500
+
+    cambio de color de container borde
+
+[33mcommit b6677865e0de6ae7b51ef15773320717ced0bb8c[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Thu Mar 10 21:52:04 2022 -0500
+
+    cambié el container a rojo y el main agregando jaaaa
+
+[33mcommit 6d2b5371155ed1005607a01204c88deb2da96553[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Thu Mar 10 21:50:41 2022 -0500
+
+    modifique el color del borde del container
+
+[33mcommit 4e156c6b2ab793a9152b33b70b17ca8d52ff65af[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Wed Mar 9 22:59:01 2022 -0500
+
+    cambio de estilo de contenido
+
+[33mcommit ae6d4025f8b568110952505a20c928298e5df461[m
+Merge: ad52c93 d06768d
+Author: apfata <apfata.developer@gmail.com>
+Date:   Wed Mar 9 22:49:35 2022 -0500
+
+    modificacion antes del merge
+
+[33mcommit d06768db702d5e7aa4bd9f29c634a62f68044df9[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Wed Mar 9 22:47:21 2022 -0500
+
+    Añadido lineas a estilos.css
+
+[33mcommit ad52c93a9b9532b316b5750a5b328aa849632810[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Wed Mar 9 22:46:39 2022 -0500
+
+    espaciado en estilos.css
+
+[33mcommit 22042053219f2e555d783c1761284f776102728a[m
+Merge: a18fee1 0436333
+Author: apfata <apfata.developer@gmail.com>
+Date:   Wed Mar 9 22:44:01 2022 -0500
+
+    Mergin con cabecera
+
+[33mcommit a18fee1d582adbc53e853621199bfc4a52b4f464[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Wed Mar 9 22:33:50 2022 -0500
+
+    cambio de contenido y su creador
+
+[33mcommit 04363338964237d1561a65e9c7e801cc5d98a2b2[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Wed Mar 9 22:30:09 2022 -0500
+
+    Finalizada la cabecera
+
+[33mcommit 9e665fffd646797e61e2c0962a1fbfb236e02fa0[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Wed Mar 9 22:12:20 2022 -0500
+
+    formateado de cabecera
+
+[33mcommit f8e5f3fb350870012f6f97732c04eb8d217f5702[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Wed Mar 9 22:05:41 2022 -0500
+
+    Estructura principal de la cabecera
+
+[33mcommit 118e4eadcd16f6dda723cf626f2f5ccf957c93e5[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Wed Mar 9 21:58:34 2022 -0500
+
+    Commit al master de contenido del blog
+
+[33mcommit 91c99eecc0d2eeb07b4dad683ca6014de02e1db1[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Sun Mar 6 23:54:00 2022 -0500
+
+    no considerado historia 2
+
+[33mcommit a110020a49995ad296b82b1cffaaf5dbc3a961e3[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Sun Mar 6 23:44:21 2022 -0500
+
+    historia actualizada
+
+[33mcommit 266c982be470a5ced78e933efbcffa4790125152[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Sun Mar 6 23:43:48 2022 -0500
+
+    cambios que se quiere ver
+
+[33mcommit a945b0587b55870f4dc0f6860f5b61ad398664b5[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Sun Mar 6 23:28:21 2022 -0500
+
+    arranco proyecto real html y css
+
+[33mcommit bc9387da18dd9fd7ce3c070ac4068217b1f688de[m
+Author: apfata <apfata.developer@gmail.com>
+Date:   Sun Mar 6 23:05:22 2022 -0500
+
+    commit 1
