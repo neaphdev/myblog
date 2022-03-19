@@ -11,7 +11,8 @@ Proyecto en conjunto con DEVNNA2
 [TOC]
 
 # H1 header
-
+* Todo lo necesario de git
+* Las cuentas mías
 
 ### Images
 
