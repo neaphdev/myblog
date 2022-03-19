@@ -22,9 +22,10 @@ table{
     margin-top: 1rem;
     padding-top: 1rem;
     font-style: italic;
-    background-color:cyan;
+    background-color:rgb(10, 10, 66);
     align-items: center;
     padding:0.5em;
+    color: white;
 }
 
 
